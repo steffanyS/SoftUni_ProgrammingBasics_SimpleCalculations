@@ -1,0 +1,9 @@
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe.config
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\bin\Debug\GreetingByName.pdb
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csprojResolveAssemblyReference.cache
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\obj\Debug\GreetingByName.exe
+E:\SoftUni\lesson2\GreetingByName\GreetingByName\obj\Debug\GreetingByName.pdb
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\Exersices\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe.config
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\Exersices\GreetingByName\GreetingByName\obj\Debug\GreetingByName.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\SoftUni_ProgrammingBasics_SimpleCalculations\Exersices\GreetingByName\GreetingByName\obj\Debug\GreetingByName.pdb
