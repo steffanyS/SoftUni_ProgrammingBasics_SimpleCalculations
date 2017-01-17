@@ -1,0 +1,2 @@
+# SoftUni_ProgrammingBasics_SimpleCalculations
+Simple calculation excersises
