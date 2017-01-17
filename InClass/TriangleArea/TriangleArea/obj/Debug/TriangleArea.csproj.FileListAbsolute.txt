@@ -1,0 +1,5 @@
+E:\SoftUni\lesson2\InClass\TriangleArea\TriangleArea\bin\Debug\TriangleArea.exe.config
+E:\SoftUni\lesson2\InClass\TriangleArea\TriangleArea\bin\Debug\TriangleArea.exe
+E:\SoftUni\lesson2\InClass\TriangleArea\TriangleArea\bin\Debug\TriangleArea.pdb
+E:\SoftUni\lesson2\InClass\TriangleArea\TriangleArea\obj\Debug\TriangleArea.exe
+E:\SoftUni\lesson2\InClass\TriangleArea\TriangleArea\obj\Debug\TriangleArea.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\lesson2\InClass\Demo\Demo\bin\Debug\Demo.exe.config
+E:\SoftUni\lesson2\InClass\Demo\Demo\bin\Debug\Demo.exe
+E:\SoftUni\lesson2\InClass\Demo\Demo\bin\Debug\Demo.pdb
+E:\SoftUni\lesson2\InClass\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\SoftUni\lesson2\InClass\Demo\Demo\obj\Debug\Demo.exe
+E:\SoftUni\lesson2\InClass\Demo\Demo\obj\Debug\Demo.pdb

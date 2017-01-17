@@ -1,0 +1,5 @@
+E:\SoftUni\lesson2\InClass\RadiansDegrees\RadiansDegrees\bin\Debug\RadiansDegrees.exe.config
+E:\SoftUni\lesson2\InClass\RadiansDegrees\RadiansDegrees\bin\Debug\RadiansDegrees.exe
+E:\SoftUni\lesson2\InClass\RadiansDegrees\RadiansDegrees\bin\Debug\RadiansDegrees.pdb
+E:\SoftUni\lesson2\InClass\RadiansDegrees\RadiansDegrees\obj\Debug\RadiansDegrees.exe
+E:\SoftUni\lesson2\InClass\RadiansDegrees\RadiansDegrees\obj\Debug\RadiansDegrees.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

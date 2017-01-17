@@ -1,0 +1,8 @@
+E:\SoftUni\lesson2\InClass\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\CelsiusFahrenheit.exe.config
+E:\SoftUni\lesson2\InClass\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\CelsiusFahrenheit.exe
+E:\SoftUni\lesson2\InClass\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\CelsiusFahrenheit.pdb
+E:\SoftUni\lesson2\InClass\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\CelsiusFahrenheit.exe
+E:\SoftUni\lesson2\InClass\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\CelsiusFahrenheit.pdb
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\CelsiusFahrenheit.exe.config
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\CelsiusFahrenheit.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\CelsiusFahrenheit.pdb

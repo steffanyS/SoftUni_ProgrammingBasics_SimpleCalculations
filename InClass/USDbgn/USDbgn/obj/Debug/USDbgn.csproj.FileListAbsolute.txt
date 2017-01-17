@@ -1,0 +1,8 @@
+E:\SoftUni\lesson2\InClass\USDbgn\USDbgn\bin\Debug\USDbgn.exe.config
+E:\SoftUni\lesson2\InClass\USDbgn\USDbgn\bin\Debug\USDbgn.exe
+E:\SoftUni\lesson2\InClass\USDbgn\USDbgn\bin\Debug\USDbgn.pdb
+E:\SoftUni\lesson2\InClass\USDbgn\USDbgn\obj\Debug\USDbgn.exe
+E:\SoftUni\lesson2\InClass\USDbgn\USDbgn\obj\Debug\USDbgn.pdb
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\USDbgn\USDbgn\bin\Debug\USDbgn.exe.config
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\USDbgn\USDbgn\obj\Debug\USDbgn.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\USDbgn\USDbgn\obj\Debug\USDbgn.pdb

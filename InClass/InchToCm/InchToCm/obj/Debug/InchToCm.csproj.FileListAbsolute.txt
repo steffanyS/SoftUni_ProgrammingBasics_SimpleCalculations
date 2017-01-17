@@ -1,0 +1,6 @@
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\bin\Debug\InchToCm.exe.config
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\bin\Debug\InchToCm.exe
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\bin\Debug\InchToCm.pdb
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\obj\Debug\InchToCm.csprojResolveAssemblyReference.cache
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\obj\Debug\InchToCm.exe
+E:\SoftUni\lesson2\InClass\InchToCm\InchToCm\obj\Debug\InchToCm.pdb

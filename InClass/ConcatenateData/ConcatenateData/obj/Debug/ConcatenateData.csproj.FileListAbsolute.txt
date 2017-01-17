@@ -1,0 +1,9 @@
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.exe
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.pdb
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.csprojResolveAssemblyReference.cache
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.exe
+E:\SoftUni\lesson2\InClass\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.pdb
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.exe
+E:\SoftUni\ProgrammingBasics\02.SimpleCalculations\InClass\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.pdb

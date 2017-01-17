@@ -1,0 +1,5 @@
+E:\SoftUni\lesson2\InClass\Name\Name\bin\Debug\Name.exe.config
+E:\SoftUni\lesson2\InClass\Name\Name\bin\Debug\Name.exe
+E:\SoftUni\lesson2\InClass\Name\Name\bin\Debug\Name.pdb
+E:\SoftUni\lesson2\InClass\Name\Name\obj\Debug\Name.exe
+E:\SoftUni\lesson2\InClass\Name\Name\obj\Debug\Name.pdb
